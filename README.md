@@ -13,5 +13,3 @@ Accountability Accounting, a prominent investment bank, is interested in offerin
 * Deliverable 2 - Reducing Data Dimensions Using PCA
 * Deliverable 3 - Clustering Cryptocurrencies Using K-means
 * Deliverable 4 - Visualizing Cryptocurrencies Results
-
-## Deliverable 1:
